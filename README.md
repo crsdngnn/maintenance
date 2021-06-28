@@ -1,6 +1,6 @@
-# Laravel VueJs CRUD
+# Laravel VueJs Maintenance System
 
-A simple crud using Laravel and VueJs
+A simple Maintenance System using Laravel and VueJs
 
 ## Installation
 
